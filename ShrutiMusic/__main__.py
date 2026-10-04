@@ -26,6 +26,7 @@ from pyrogram import idle
 from pyrogram.types import BotCommand
 from pytgcalls.exceptions import NoActiveGroupCall
 import config
+from ShrutiMusic import keep_alive
 from ShrutiMusic import LOGGER, app, userbot
 from ShrutiMusic.core.call import Nand
 from ShrutiMusic.misc import sudo
