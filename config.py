@@ -21,8 +21,8 @@ UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/NoxxOP/ShrutiMusi
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/chhikuumaa")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/haramkhoro_87")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/Sexy_leoo")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+_pAevKYtog9hZGZl")
 INSTAGRAM = os.getenv("INSTAGRAM", "https://t.me/haramkhoro_87")
 YOUTUBE = os.getenv("YOUTUBE", "https://t.me/haramkhoro_87")
 GITHUB = os.getenv("GITHUB", "https://t.me/chhikuumaa")
@@ -46,10 +46,10 @@ STRING5 = os.getenv("STRING_SESSION5", None)
 
 AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/4cw15b.jpg")
-PING_IMG_URL = "https://files.catbox.moe/4cw15b.jpg"
-PLAYLIST_IMG_URL = "https://files.catbox.moe/iv6kdy.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/t5n8d2.jpg"
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/la91gi.jpg")
+PING_IMG_URL = "https://files.catbox.moe/jnibll.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/4qgc5d.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/la91gi.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/jnibll.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/8dl2ow.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
